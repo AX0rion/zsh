@@ -179,9 +179,6 @@ alias la='ls --color=auto -la'
 alias ll='ls --color=auto -l'
 alias ls='ls --color=auto'
 
-#HOMEBREW
+# HOMEBREW
 export PATH=$PATH:/opt/homebrew/bin
-
-# PROMPT
-#PROMPT="${BLUE}%n${NO_COLOR}@%m %# "
 
