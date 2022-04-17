@@ -11,3 +11,5 @@
 - Move the `zshrc` file and `zsh/` directory in your $HOME
 	- zshrc: `mv ~/Download/zsh-main/zshrc ~/.zshrc`
 	- zsh/: `mv ~/Download/zsh-main/zsh ~/.zsh/`
+
+- Finish with `source ~/.zshrc`
